@@ -19,3 +19,9 @@ This is a demo project built using Objective C language. App is created programm
 - it is built using single and multi-dimensional arrays.
 - This app is built for learning Objective C language.
 - App is functional, free and ready to use.
+
+## Application ScreenShots
+
+[![HomePage.png](https://i.postimg.cc/7Z63RHxK/HomePage.png)](https://postimg.cc/kB0R6dRS)
+
+[![Table-View-Home-Page.png](https://i.postimg.cc/Cxq15XJF/Table-View-Home-Page.png)](https://postimg.cc/Wdsjf9QK)
